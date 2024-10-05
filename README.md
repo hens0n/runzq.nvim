@@ -1,5 +1,4 @@
 # RunZq Neovim Plugin
-# ZQ Neovim Plugin
 
 This Neovim plugin allows users to easily run `zq` commands on `.zed` files directly from within the editor. It provides commands to execute `zq` queries in a terminal split or print out the `zq` command for copying purposes. The plugin is designed to be configurable and integrates smoothly with Neovim.
 
