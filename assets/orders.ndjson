@@ -1,0 +1,4 @@
+{"order_id": 101, "user_id": 1, "product": "Laptop", "amount": 1500 }
+{"order_id": 102, "user_id": 1, "product": "Phone", "amount": 800 }
+{"order_id": 103, "user_id": 2, "product": "Tablet", "amount": 600 }
+{"order_id": 104, "user_id": 3, "product": "Headphones", "amount": 200 }

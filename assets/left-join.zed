@@ -1,0 +1,2 @@
+file orders.ndjson
+| left join (file users.ndjson) on user_id=user_id user:=this
